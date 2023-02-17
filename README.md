@@ -1,4 +1,4 @@
-# SOF-S-MA-7-1--G12--2P-Tarea--APIs-creacion-personalizada  GRUPO 12
+# SOF-S-MA-7-1 G12 2P-Tarea--APIs-creacion-personalizada GRUPO 12
 Considerando la clase sobre creación de APIs. Se requiere crear la siguientes APIs segun la necesidad:  
 Retornar información de clientes que tenga edad entre 30 y 50 años 
 Retornar información de clientes cuyos apellidos comiencen según lo ingresado como parámetro 
